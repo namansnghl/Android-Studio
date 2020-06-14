@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="name">Enter your Name</string>
+    <string name="reg_no">Your registeration number</string>
+    <string name="button_send">Send</string>
+    <string name="welcome_mssg">Hello! Enter your Details below</string>
+</resources>
